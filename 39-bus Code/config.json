@@ -1,0 +1,16 @@
+{
+    "GAMMA": 0.99,
+    "EXPLORE": 250,
+    "dimInputSignals": 1,
+    "dimOutputSignals": 48,
+    "dimHiddenSignals": 48,
+    "nFilterTaps": [3, 3],
+    "bias": true,
+    "dimEdgeFeatures": 1,
+    "eps": 1.00,
+    "replay_buffer_size": 5000,
+    "sample_length": 3,
+    "batch_size": 32,
+    "learning_rate": 0.005,
+    "fill_Buffer": false
+}
