@@ -21,13 +21,13 @@ To run the Fault Chain Solver on a selected test case, use:
 ```
 python faultChainSolver.py --case 39 --load 0.55
 ```
-Currently, the supported IEEE test cases are the 39-bus and 118-bus systems, with supported load values of 0.55, 0.6, and 1.0 and upto a horizon of 3.
+Currently, the supported IEEE test cases are the 39-bus and 118-bus systems, with supported load values of 0.55, 0.6, and 1.0 and upto a prediction horizon of 3.
 
 
 
 ## Running the Developed GRNN Risky Fault Chain Predictor:
 
-To run the GRNN-based fault chain solver, use the `grqnSolver.py` script.
+To run the GRNN-based fault chain predictor, use the `grqnSolver.py` script.
 
 Option 1: Run for a Fixed Number of Iterations:
 ```
