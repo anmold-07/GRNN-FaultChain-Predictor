@@ -66,7 +66,7 @@ Please note that the GRNN architecture in this repository is a slightly constrai
 ## Citation
 If you find this repository useful for your research, please consider citing:
 ```
-@ARTICLE{Dwivedi-GRNN-2024,
+@article{Dwivedi-GRNN-2024,
 author={Dwivedi, Anmol and Tajer, Ali},
 journal={IEEE Transactions on Power Systems},
 title={GRNN-Based Real-Time Fault Chain Prediction},
@@ -74,18 +74,18 @@ year={2024},
 volume={39},
 number={1},
 pages={934-946},
-keywords={Power system protection; Power system faults; Load modeling; Computational modeling; P},
 doi={10.1109/TPWRS.2023.3258740}
 }
 ```
+and
 ```
 @misc{Dwivedi-GRNN-2025,
-      title={Real-Time Risky Fault-Chain Search using Time-Varying Graph RNNs}, 
-      author={Anmol Dwivedi and Ali Tajer},
-      year={2025},
-      eprint={2503.09775},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2503.09775}, 
+author={Anmol Dwivedi and Ali Tajer},
+title={Real-Time Risky Fault-Chain Search using Time-Varying Graph RNNs},
+year={2025},
+eprint={2503.09775},
+archivePrefix={arXiv},
+primaryClass={cs.LG},
+url={https://arxiv.org/abs/2503.09775}
 }
 ```
