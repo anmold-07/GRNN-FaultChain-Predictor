@@ -3,6 +3,11 @@
 Source code accompanying our **2024 IEEE Transactions on Power Systems (TPS)** [paper](https://ieeexplore.ieee.org/abstract/document/10075543) 
 and our **2025 ICLR Climate Change AI (CCAI) Workshop** [paper](https://arxiv.org/abs/2503.09775)
 
+Other Artifacts:
+- [ICLR Slides](https://iclr.cc/media/iclr-2025/Slides/36676.pdf)
+- [ICLR Poster](https://iclr.cc/media/PosterPDFs/ICLR%202025/36676.png?t=1751592032.931365)
+- [ICLR Video](https://iclr.cc/virtual/2025/36676)
+  
 ---
 
 ## Requirements
